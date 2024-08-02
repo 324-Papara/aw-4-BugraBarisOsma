@@ -1,0 +1,16 @@
+/Users/bugrabarisosma/Desktop/Odevler/aw-4-BugraBarisOsma/Para.Api/Para.Schema/bin/Debug/net8.0/Para.Schema.deps.json
+/Users/bugrabarisosma/Desktop/Odevler/aw-4-BugraBarisOsma/Para.Api/Para.Schema/bin/Debug/net8.0/Para.Schema.dll
+/Users/bugrabarisosma/Desktop/Odevler/aw-4-BugraBarisOsma/Para.Api/Para.Schema/bin/Debug/net8.0/Para.Schema.pdb
+/Users/bugrabarisosma/Desktop/Odevler/aw-4-BugraBarisOsma/Para.Api/Para.Schema/bin/Debug/net8.0/Para.Base.dll
+/Users/bugrabarisosma/Desktop/Odevler/aw-4-BugraBarisOsma/Para.Api/Para.Schema/bin/Debug/net8.0/Para.Base.pdb
+/Users/bugrabarisosma/Desktop/Odevler/aw-4-BugraBarisOsma/Para.Api/Para.Schema/obj/Debug/net8.0/Para.Schema.csproj.AssemblyReference.cache
+/Users/bugrabarisosma/Desktop/Odevler/aw-4-BugraBarisOsma/Para.Api/Para.Schema/obj/Debug/net8.0/Para.Schema.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bugrabarisosma/Desktop/Odevler/aw-4-BugraBarisOsma/Para.Api/Para.Schema/obj/Debug/net8.0/Para.Schema.AssemblyInfoInputs.cache
+/Users/bugrabarisosma/Desktop/Odevler/aw-4-BugraBarisOsma/Para.Api/Para.Schema/obj/Debug/net8.0/Para.Schema.AssemblyInfo.cs
+/Users/bugrabarisosma/Desktop/Odevler/aw-4-BugraBarisOsma/Para.Api/Para.Schema/obj/Debug/net8.0/Para.Schema.csproj.CoreCompileInputs.cache
+/Users/bugrabarisosma/Desktop/Odevler/aw-4-BugraBarisOsma/Para.Api/Para.Schema/obj/Debug/net8.0/Para.Schema.sourcelink.json
+/Users/bugrabarisosma/Desktop/Odevler/aw-4-BugraBarisOsma/Para.Api/Para.Schema/obj/Debug/net8.0/Para.Sch.F9E7B0A7.Up2Date
+/Users/bugrabarisosma/Desktop/Odevler/aw-4-BugraBarisOsma/Para.Api/Para.Schema/obj/Debug/net8.0/Para.Schema.dll
+/Users/bugrabarisosma/Desktop/Odevler/aw-4-BugraBarisOsma/Para.Api/Para.Schema/obj/Debug/net8.0/refint/Para.Schema.dll
+/Users/bugrabarisosma/Desktop/Odevler/aw-4-BugraBarisOsma/Para.Api/Para.Schema/obj/Debug/net8.0/Para.Schema.pdb
+/Users/bugrabarisosma/Desktop/Odevler/aw-4-BugraBarisOsma/Para.Api/Para.Schema/obj/Debug/net8.0/ref/Para.Schema.dll
